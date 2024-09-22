@@ -1,8 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,700|Quattrocento:700');
-
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@200..900&display=swap');
 body {
-    font-family: 'Open Sans', sans-serif;
-    font-weight: lighter;
+    font-family: "Noto Serif SC", serif;
+    font-weight: 500;
     background: white;
     overflow: hidden;
 }
