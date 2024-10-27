@@ -2,7 +2,7 @@
 这里放了用Inky写出的一点文字游戏  
 现在 只做了一个开头，**暂时**很不完善……
 
-##传送门
+**传送门
 https://chika-uru.github.io/StorInky/
 
 更新（鸽）计划  
